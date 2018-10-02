@@ -6,5 +6,8 @@
   "repository": "git@github.com:codingandcommunity/booster-read-projects-function.git",
   "author": "jakebillings <jake@jakebillings.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "aws-serverless-express": "^3.3.5"
+  }
 }
