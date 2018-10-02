@@ -1,0 +1,10 @@
+{
+  "name": "booster-read-projects-function",
+  "version": "1.0.0",
+  "description": "This repository contains the \"read projects\" API for the open source curriculum project. Powered by Rensselaer Center for Open Source.",
+  "main": "index.js",
+  "repository": "git@github.com:codingandcommunity/booster-read-projects-function.git",
+  "author": "jakebillings <jake@jakebillings.com>",
+  "license": "MIT",
+  "private": true
+}
