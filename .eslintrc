@@ -3,8 +3,7 @@
   "plugins": [
     "typelint",
     "optimize-regex",
-    "unicorn",
-    "notice"
+    "unicorn"
   ],
   "env": {
     "node": true,
