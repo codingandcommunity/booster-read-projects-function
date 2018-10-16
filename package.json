@@ -7,6 +7,9 @@
   "author": "jakebillings <jake@jakebillings.com>",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "test": "mocha test/*.spec.js --exit"
+  },
   "dependencies": {
     "aws-serverless-express": "^3.3.5",
     "express": "^4.16.3"
