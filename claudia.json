@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "booster-read-projects-function-executor",
+    "name": "booster-read-projects-function",
+    "region": "us-east-1"
+  }
+}
