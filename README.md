@@ -37,3 +37,9 @@ aws_secret_access_key=[......................................]
 aws_access_key_id=[..................]
 aws_secret_access_key=[......................................]
 ```
+
+### Past Contributors ###
+
+Add your name here if you're committing changes to this repository.
+
+- [Jake Billings](https://jakebillings.com)
