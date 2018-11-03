@@ -10,7 +10,8 @@
   "scripts": {
     "deploy:create": "claudia create --region us-east-1 --handler src/lambda.handler --profile codingandcommunity",
     "deploy:update": "claudia update --profile codingandcommunity",
-    "test": "mocha test/*.spec.js --exit"
+    "test": "mocha test/*.spec.js --exit",
+    "start": "node ./src/index.js"
   },
   "dependencies": {
     "aws-serverless-express": "^3.3.5",
