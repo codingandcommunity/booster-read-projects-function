@@ -10,6 +10,14 @@ This repository contains the "read projects" API for the [RCOS Open Source Curri
 
 This repository uses the `aws-serverless-express` library to implement an AWS Lambda function that calls an express router that serves the API. However, this project can be tested locally as a normal express server.
 
+## Getting Started
+
+1. `git clone` Clone this repository
+1. Open a terminal in the project directory
+1. `yarn install` to install dependencies
+1. `yarn test` to ensure everything works
+1. `yarn start` to start the development server
+
 ## Commands
 
 - `yarn start` starts a local express server for testing
