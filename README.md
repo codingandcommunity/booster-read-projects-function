@@ -16,6 +16,7 @@ In the production setup, the frontend projects that access this API do so throug
 
 ## Getting Started
 
+1. Ensure the most recent LTS version of NodeJS is installed
 1. `git clone` Clone this repository
 1. Open a terminal in the project directory
 1. `yarn install` to install dependencies
