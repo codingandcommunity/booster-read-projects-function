@@ -10,6 +10,10 @@ This repository contains the "read projects" API for the [RCOS Open Source Curri
 
 This repository uses the `aws-serverless-express` library to implement an AWS Lambda function that calls an express router that serves the API. However, this project can be tested locally as a normal express server.
 
+## CloudFront Cache
+
+In the production setup, the frontend projects that access this API do so through a CloudFront distribution. As a result, updates to this lambda will not propagate to the frontend immediately. The cache must break first.
+
 ## Getting Started
 
 1. `git clone` Clone this repository
